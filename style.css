@@ -1,5 +1,15 @@
-.cabecera
+body
 {
-    color: blueviolet;
-    text-align: center;
+    margin: 0;
+    font-family: Arial;
+}
+
+.encabezado
+{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: white;
+padding: 15px 40px;
+border-bottom: 2px solid #eee;
 }

@@ -1,0 +1,1 @@
+https://api.whatsapp.com/send/?phone=573022200200&text=Hola,%20tengo%20una%20inquietud%20y%20vengo%20de%20la%20tienda%20online&app_absent=0
